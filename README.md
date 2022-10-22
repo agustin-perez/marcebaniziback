@@ -1,2 +1,4 @@
-# marce_banizi
-Back-End RESTful api para proyecto Banizi.
+# Marcebanizi Estudio Back-End 
+RESTful api para estudio de belleza Marce Banizi.
+
+https://api.marcebaniziestudio.com
