@@ -1,4 +1,2 @@
-# Marcebanizi Estudio Backend 
-Proyecto en Springboot para el backend del estudio de belleza Marce Banizi.
-
-https://api.marcebaniziestudio.com
+# marce_banizi
+Back-End RESTful api para proyecto Banizi.
